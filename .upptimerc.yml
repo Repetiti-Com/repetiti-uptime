@@ -6,7 +6,7 @@ sites:
   - name: Repetiti Main Page
     url: https://www.repetiti.com
   - name: Repetiti Panel
-    url: https://panel.repetiti.com
+    url: https://panel.repetiti.com/login
   - name: Repetiti Api
     url: https://news.ycombinator.com
 

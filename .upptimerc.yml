@@ -8,7 +8,7 @@ sites:
   - name: Repetiti Panel
     url: https://panel.repetiti.com/login
   - name: Repetiti Api
-    url: https://news.ycombinator.com
+    url: https://app.repetiti.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

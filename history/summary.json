@@ -22,7 +22,7 @@
     "url": "https://panel.repetiti.com/login",
     "icon": "https://favicons.githubusercontent.com/panel.repetiti.com",
     "slug": "repetiti-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 455,
     "timeMonth": 455,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Repetiti Api",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/app.repetiti.com",
     "slug": "repetiti-api",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.09%",
     "uptimeDay": "98.54%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 896,
     "timeDay": 893,
     "timeWeek": 896,

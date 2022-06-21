@@ -22,19 +22,19 @@
     "url": "https://panel.repetiti.com/login",
     "icon": "https://favicons.githubusercontent.com/panel.repetiti.com",
     "slug": "repetiti-panel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 401,
-    "timeWeek": 455,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 450,
+    "timeDay": 415,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 9
     }
   },
   {

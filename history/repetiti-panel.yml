@@ -1,7 +1,7 @@
 url: https://panel.repetiti.com/login
-status: down
-code: 403
-responseTime: 66
-lastUpdated: 2022-06-29T11:31:40.036Z
+status: up
+code: 200
+responseTime: 2530
+lastUpdated: 2022-06-29T11:40:52.287Z
 startTime: Sun Jun 19 2022 17:10:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

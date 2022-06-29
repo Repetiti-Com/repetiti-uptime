@@ -4,19 +4,19 @@
     "url": "https://www.repetiti.com",
     "icon": "https://favicons.githubusercontent.com/www.repetiti.com",
     "slug": "repetiti-main-page",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 432,
-    "timeDay": 296,
-    "timeWeek": 362,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 438,
+    "timeDay": 329,
+    "timeWeek": 374,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {
-      "2022-06-29": 58
+      "2022-06-29": 66
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://panel.repetiti.com/login",
     "icon": "https://favicons.githubusercontent.com/panel.repetiti.com",
     "slug": "repetiti-panel",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 545,
-    "timeDay": 688,
-    "timeWeek": 590,
-    "timeMonth": 545,
-    "timeYear": 545,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 565,
+    "timeDay": 724,
+    "timeWeek": 616,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-06-29": 58
+      "2022-06-29": 66
     }
   },
   {

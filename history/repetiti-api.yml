@@ -1,7 +1,7 @@
 url: https://app.repetiti.com
-status: up
-code: 200
-responseTime: 1187
-lastUpdated: 2022-07-06T04:35:46.318Z
+status: down
+code: 502
+responseTime: 860
+lastUpdated: 2022-07-06T05:07:55.791Z
 startTime: Sun Jun 19 2022 17:10:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

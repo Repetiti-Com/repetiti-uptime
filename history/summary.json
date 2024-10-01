@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.repetiti.com.ico",
     "slug": "repetiti-main-page",
     "status": "down",
-    "uptime": "84.12%",
+    "uptime": "84.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "64.14%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "63.86%",
     "time": 837,
-    "timeDay": 206,
-    "timeWeek": 233,
-    "timeMonth": 416,
-    "timeYear": 791,
+    "timeDay": 363,
+    "timeWeek": 258,
+    "timeMonth": 413,
+    "timeYear": 790,
     "dailyMinutesDown": {
-      "2024-09-30": 41,
+      "2024-10-01": 43,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -147,8 +148,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
-      "2024-05-22": 1103,
-      "2023-10-02": 141
+      "2024-05-22": 1103
     }
   },
   {
@@ -157,18 +157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.repetiti.com.ico",
     "slug": "repetiti-panel",
     "status": "down",
-    "uptime": "84.08%",
+    "uptime": "83.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "64.13%",
-    "time": 907,
-    "timeDay": 206,
-    "timeWeek": 232,
-    "timeMonth": 384,
-    "timeYear": 951,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "63.85%",
+    "time": 900,
+    "timeDay": 278,
+    "timeWeek": 241,
+    "timeMonth": 379,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2024-09-30": 41,
+      "2024-10-01": 44,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -301,8 +302,7 @@
       "2024-05-23": 1440,
       "2024-05-22": 1103,
       "2024-04-25": 31,
-      "2024-04-23": 42,
-      "2023-10-02": 140
+      "2024-04-23": 42
     }
   },
   {
@@ -311,18 +311,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.repetiti.com.ico",
     "slug": "repetiti-api",
     "status": "down",
-    "uptime": "83.88%",
+    "uptime": "83.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "63.64%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "63.36%",
     "time": 3415,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3446,
+    "timeYear": 3453,
     "dailyMinutesDown": {
-      "2024-09-30": 41,
+      "2024-10-01": 44,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -470,8 +471,7 @@
       "2023-10-11": 288,
       "2023-10-09": 19,
       "2023-10-06": 26,
-      "2023-10-05": 18,
-      "2023-10-02": 29
+      "2023-10-05": 18
     }
   }
 ]
